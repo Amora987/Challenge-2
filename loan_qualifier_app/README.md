@@ -26,6 +26,14 @@ Questionary
 ```Pip install questionary```
 
 ---
+## Run the application
 
+To run the application:
+
+- Clone respository using Git Bash or Terminal  
+- Open the `loan_qualifier_app` application
+- In git bash, terminal or vscode run:
+   
+   ```python app.py```
 
 
