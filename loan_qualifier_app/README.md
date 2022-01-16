@@ -42,6 +42,6 @@ To run the application:
   
 - The application will prompt:  
   ![](https://github.com/Amora987/Challenge-2/blob/main/loan_qualifier_app/pictures/enter_user_info.PNG)  
-  
 
-- Once its done running, it will generate a the loans in a new file that the user qualifies for.
+
+- Once its done running, it will generate a the loans in a new file called ```qualifying_loans.csv``` that the user qualifies for.
