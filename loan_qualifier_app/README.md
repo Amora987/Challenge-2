@@ -32,8 +32,11 @@ To run the application:
 
 - Clone respository using Git Bash or Terminal  
 - Open the `loan_qualifier_app` application
-- In git bash, terminal or vscode run:
+- In git bash, terminal or vscode run the command:
    
    ```python app.py```
 
+- The program will ask you to enter the file path from where it will extract the data:
+  ```./data/daily_rate_sheet.csv``` is to be entered 
 
+- The application will prompt
