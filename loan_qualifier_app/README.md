@@ -8,11 +8,21 @@ The application utilizes calculations of month debt ratio, loan to value ratio a
 
 
 ## Installation Guide
-Both tools use python 3.7:
+Both tools use python 3.7:  
 
-[Python Fire](https://github.com/google/python-fire) - is utilized to create CLI in Python
+[Python Fire](https://github.com/google/python-fire) - is utilized to create CLI in Python  
 
-[Questionary](https://pypi.org/project/questionary/) - is a library allowing users to utilize CLI in Python
+[Questionary](https://pypi.org/project/questionary/) - is a library allowing users to utilize CLI in Python  
+
+### Installing Pyhton Fire and Questionary  
+Open Git Bash or Terminal and type the commands below:  
+
+Fire  
+(./pictures/Fire_install.png)  
+
+Questionary  
+(./pictures/questionary_install.png)  
+
 
 ---
 
