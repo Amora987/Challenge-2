@@ -1,33 +1,18 @@
-# Project Title
+# Loan Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+## Description
+The application utilizes calculations of month debt ratio, loan to value ratio and `data_rate_sheet.csv` to extract information for which loan the user qualifies for. The application will ask for the user's information to compare with other loans from different banks. Once the application has all available loans, it will generate the loans the user is qualified for in `qualified_loans.csv`
 
----
-
-## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
+
 
 ## Installation Guide
+Both tools use python 3.7:
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
-
-## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+[Python Fire](https://github.com/google/python-fire) - is utilized to create CLI in Python
+[Questionary](https://pypi.org/project/questionary/) - is a library allowing users to utilize CLI in Python
 
 ---
 
-## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
----
-
-## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
