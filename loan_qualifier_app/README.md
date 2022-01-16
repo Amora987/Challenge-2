@@ -19,11 +19,11 @@ Open Git Bash or Terminal and type the commands below:
 
 Python Fire  
 
-![Fire](./pictures/Fire_install.png)  
+![Fire](./loan_qualifier_app/pictures/Fire_install.png)  
   
 Questionary  
 
-![Questionary](./pictures/questionary_install.png) 
+![Questionary](./loan_qualifier_app/pictures/questionary_install.png) 
 
 
 ---
