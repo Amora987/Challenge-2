@@ -19,13 +19,13 @@ Open Git Bash or Terminal and type the commands below:
 
 Python Fire  
 
-![Fire](./loan_qualifier_app/pictures/Fire_install.png)  
+```Pip install fire```
   
 Questionary  
 
-![Questionary](./loan_qualifier_app/pictures/questionary_install.png) 
-
+```Pip install questionary```
 
 ---
+
 
 
