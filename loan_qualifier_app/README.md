@@ -17,11 +17,13 @@ Both tools use python 3.7:
 ### Installing Pyhton Fire and Questionary  
 Open Git Bash or Terminal and type the commands below:  
 
-Fire  
-(./pictures/Fire_install.png)  
+Python Fire  
 
+![Fire](./pictures/Fire_install.png)  
+  
 Questionary  
-(./pictures/questionary_install.png)  
+
+![Questionary](./pictures/questionary_install.png) 
 
 
 ---
