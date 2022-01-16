@@ -36,7 +36,10 @@ To run the application:
    
    ```python app.py```
 
-- The program will ask you to enter the file path from where it will extract the data:
-  ```./data/daily_rate_sheet.csv``` is to be entered 
+- The program will ask you to enter the file path from where it will extract the data:  
 
-- The application will prompt
+  ```./data/daily_rate_sheet.csv```  
+  
+- The application will prompt:  
+  (https://github.com/Amora987/Challenge-2/blob/main/loan_qualifier_app/pictures/enter_user_info.PNG)
+  
