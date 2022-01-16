@@ -11,6 +11,7 @@ The application utilizes calculations of month debt ratio, loan to value ratio a
 Both tools use python 3.7:
 
 [Python Fire](https://github.com/google/python-fire) - is utilized to create CLI in Python
+
 [Questionary](https://pypi.org/project/questionary/) - is a library allowing users to utilize CLI in Python
 
 ---
