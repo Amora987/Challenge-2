@@ -1,0 +1,500 @@
+   16  cd FinTech-Workspace
+   17  ls
+   18  cd 'M1L3'
+   19  ls
+   20  cd '02_Listing_Assets
+   21  cd ..
+   22  clear
+   23  cd '02_listing_Assets'
+   24  /
+   25  cd .
+   26  cd onedrive
+   27  cd desktop
+   28  cd FinTech-Workspace
+   29  ls
+   30  M1L3
+   31  'M1L3'
+   32  cd 'M1L3'
+   33  ls
+   34  cd '02_Listing_Assets'
+   35  ls
+   36  code .
+   37  conda activate dev
+   38  cd 'Unsolved'
+   39  ls
+   40  python listing_assets.py
+   41  python listing_assets.py
+   42  python listing_assets.py
+   43  python listing_assets.py
+   44  python listing_assets.py
+   45  conda deactivate
+   46  cd onedrive
+   47  cd desktop
+   48  cd FinTech-Workspace
+   49  conda activate dev
+   50  ls
+   51  cd 'M1L4'
+   52  ls
+   53  cd '02_Nested_Conditionals'
+   54  ls
+   55  cd'Unsolved'
+   56  cd 'unsolved'
+   57  ls
+   58  python nested_conditionals.py
+   59  python nested_conditionals.py
+   60  python nested_conditionals.py
+   61  python nested_conditionals.py
+   62  python nested_conditionals.py
+   63  python nested_conditionals.py
+   64  python nested_conditionals.py
+   65  python nested_conditionals.py
+   66  python nested_conditionals.py
+   67  python nested_conditionals.py
+   68  cd ..
+   69  cd ..
+   70  ls
+   71  cd '03_Split_Second_Homebuying'
+   72  ls
+   73  cd 'unsolved'
+   74  ls
+   75  python split_second_homebuying.py
+   76  cd ..
+   77  cd //
+   78  cd ~
+   79  conda deactivate
+   80  pwd
+   81  cd onedrive
+   82  cd desktop
+   83  cd FinTech-Workspace
+   84  ls
+   85  mkdir sample
+   86  touch a.txt
+   87  ls -al
+   88  echo "something here" >> a.txt
+   89  cat a.txt
+   90  cod a.txt
+   91  code a.txt
+   92  touch samplepython.py
+   93  code samplepython.py
+   94  python samplepython.py
+   95  ls
+   96  mv a.txt k.txt
+   97  ls
+   98  cd 'sample'
+   99  ls
+  100  cd ..
+  101  ls
+  102  rm -d k.txt
+  103  ls
+  104  rm -d samplepython.py
+  105  ls
+  106  rm -r sample
+  107  ls
+  108  cd ~
+  109  cd onedrive
+  110  cd desktop
+  111  git clone https://github.com/Amora987/samplestuff.git4
+  112  cd onedrive
+  113  cd desktop
+  114  git clone https://github.com/Amora987/samplestuff.git
+  115  ls
+  116  cd 'samplestuff'
+  117  code readme.md
+  118  cat readme.md
+  119  git add .
+  120  git comit -m "added some code"
+  121  git commit -m "added some code"
+  122  git comit -m "added some code"
+  123  git commit -m "added some code"
+  124  git config -- global Amora987
+  125  git config --global user.name "Amora987"
+  126  git commit -m "added some code"
+  127  git clone git@github.com:Amora987/samplestuff.git
+  128  cd onedrive
+  129  ls
+  130  cd 'desktop'
+  131  ls
+  132  cd FinTech-Workspace
+  133  ls
+  134  cd M1L6
+  135  ls
+  136  dev activate
+  137  activate dev
+  138  dec activate dev
+  139  dev activate dev
+  140  devactivate
+  141  conda activate dev
+  142  pythong Skill_
+  143  python Skill_Drill_1_6_3.py
+  144  conda deactivate
+  145  cd onedrive
+  146  cd desktop
+  147  cd 'FinTech-Workspace
+  148  clear
+  149  /clear
+  150  cd onedrive
+  151  cd desktop
+  152  cd FinTech-Workspace
+  153  cd M1L6
+  154  ls
+  155  cd 01_Racking_Up_The_Profit
+  156  ls
+  157  cd Unsolved
+  158  ls
+  159  conda dev activate
+  160  conda activate dev
+  161  python racking_up_the_profit.py
+  162  python racking_up_the_profit.py
+  163  python racking_up_the_profit.py
+  164  python racking_up_the_profit.py
+  165  ls
+  166  ls -al
+  167  mkdir
+  168  mdkir atm
+  169  mkdir atm
+  170  cd atm
+  171  ls
+  172  touch make_deposit.py
+  173  touch make_withdrawal.py
+  174  touch utils.py
+  175  touch run.py
+  176  ls
+  177  code vscode
+  178  pip install fire
+  179  pip install questionary
+  180  cd ..
+  181  git clone https://github.com/Amora987/fun.git
+  182  ls
+  183  cd fun
+  184  code fun
+  185  ls
+  186  code README.md
+  187  cat README.md
+  188  import pandas as pd
+  189  cat README.md
+  190  import pandas as pd
+  191  git add .
+  192  git commit  -m "added subtitle"
+  193  git config user.name "Amora987"
+  194  git commit -m "added subtitle"
+  195  git config --global user.name "Amora987"
+  196  git config --global user.email "amgmorales987@gmail.com"
+  197  git commit -m "added subtitle"
+  198  git push
+  199  git checkout -b ted
+  200  git pull
+  201  git config --global Amora987 Alex Morales
+  202  git config --global Amora987 AlexMorales
+  203  git config --list
+  204  cd onedrive
+  205  cd desktop
+  206  ls
+  207  cd FinTech-Workspace
+  208  ls
+  209  mkdir Homework
+  210  ls
+  211  cd homework
+  212  git clone https://github.com/Amora987/Challenge_1.git
+  213  cd onedrive
+  214  cd desktop
+  215  cd FinTech-Workspace
+  216  ls
+  217  cd Homework
+  218  cd
+  219  cd onedrive
+  220  cd desktop
+  221  cd FinTech-Workspace
+  222  cd Homework
+  223  ls
+  224  challenge_1
+  225  cd Challenge_1
+  226  ls
+  227  git add loan_analyzer.py
+  228  git status
+  229  git commit -m "Finished assingment 1"
+  230  git status
+  231  cd onedrive
+  232  cd desktop
+  233  cd FinTech-Workspace
+  234  cd challenge
+  235  ls
+  236  cd challenge Homework
+  237  cd Homework
+  238  ls
+  239  cd Challenge_1
+  240  git push
+  241  conda activate dev
+  242  cond list pandas
+  243  conda list pandas
+  244  conda list jupyterlab
+  245  conda deactivate
+  246  conda activate
+  247  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  248  jupyter lab
+  249  conda decativate
+  250  conda deactivate
+  251  conda activate dev
+  252  jupyter notebook
+  253  jupyter notebook
+  254  conda activate dev
+  255  jupyter lab
+  256  pip install fire
+  257  import fire
+  258  install questionary
+  259  pip install questionary
+  260  cd onedrive
+  261  cd desktop
+  262  ls
+  263  cd FinTech-Workspace
+  264  ls
+  265  cd Homework 2
+  266  cd "Homework 2"
+  267  git clone https://github.com/Amora987/Challenge-2.git
+  268  ls
+  269  cd Challenge-2
+  270  ls
+  271  cd loan_qualifier_app
+  272  ls
+  273  conda dev activate
+  274  dev conda activate
+  275  conda activate dev
+  276  python app.py
+  277  python app.py
+  278  python app.py
+  279  cd onedrive
+  280  cd desktop
+  281  cd FinTech-Workspace
+  282  cd "Homework 2"
+  283  ls
+  284  cd Challenge-2
+  285  ls
+  286  conda activate dev
+  287  lis
+  288  ls
+  289  cd loan_qualifier_app
+  290  ls
+  291  python app.py
+  292  python app.py
+  293  python app.py
+  294  onedrive
+  295  cd onedrive
+  296  cd desktop
+  297  ls
+  298  cd solved
+  299  ls
+  300  conda activate dev
+  301  python app.py
+  302  python app.py --credit_score=750 --debt=3000 --income=50000
+  303  cd onedrive
+  304  cd desktop
+  305  ls
+  306  cd Starter_Code
+  307  ls
+  308  cd loan_qualifier_app
+  309  ls
+  310  conda activate dev
+  311  python app.py
+  312  pip install sys
+  313  pip install fire
+  314  pip install questionary
+  315  pip install system
+  316  cd onedrive
+  317  cd desktio
+  318  cd desktop
+  319  cd FinTech-Workspace
+  320  ls
+  321  cd "Homework 2"
+  322  ls
+  323  cd Challenge-2
+  324  ls
+  325  cd loan_qualifier_app
+  326  ls
+  327  conda activate dev
+  328  python app.py
+  329  cd onedrive
+  330  cd desktop
+  331  cd FinTech-Workspace
+  332  ls
+  333  cd "Homework 2"
+  334  ls
+  335  cd Challenge-2
+  336  ls
+  337  git status
+  338  git add
+  339  git commit
+  340  git commit -a
+  341  cd onedrive
+  342  cd desktop
+  343  cd FinTech-Workspace
+  344  ls
+  345  cd "Homework 2"
+  346  ls
+  347  cd Challenge-2
+  348  ls
+  349  cd loan_qualifier_app
+  350  ls
+  351  conda activate dev
+  352  python3 app.py
+  353  python app.py
+  354  clear
+  355  cd onedrive
+  356  cd desktop
+  357  cd FinTech-Workspace
+  358  cd "Homework-2"
+  359  ls
+  360  cd "Homework 2"
+  361  cd
+  362  cd onedrive
+  363  cd desktop
+  364  cd FinTech-Workspace
+  365  cd "Homework 2"
+  366  ls
+  367  cd Challenge-2
+  368  ls
+  369  cd load_qaulifier_app
+  370  cd loan_qualifier_app
+  371  ls
+  372  conda activate dev
+  373  python app.py
+  374  conda activate dev
+  375  ls
+  376  cd loan_qualifier_app
+  377  ls
+  378  git add app.py
+  379  clear
+  380  cd
+  381  rm -f .git/index.lock
+  382  rm .git/COMMIT_EDITMSG
+  383  rm -f ./.git/index.lock
+  384  rm .git/index.lock
+  385  conda activate dev
+  386  ls
+  387  git add app.py
+  388  git status
+  389  git add qualifying_loans.csv
+  390  git status
+  391  git add qualifier/utils/fileiopy
+  392  git add qualifier/utils/fileio.py
+  393  git status
+  394  ls
+  395  cd data
+  396  ls
+  397  cd .
+  398  cd..
+  399  cd ..
+  400  ls
+  401  cd qualifier
+  402  ls
+  403  cd utils
+  404  ls
+  405  git add fileio.py
+  406  git status
+  407  git commit -m "added the save_csv function to write the csv file"
+  408  cd ..
+  409  cd ..
+  410  ls
+  411  git commit -m "In app.py I called the csv function to save the qualifiying loans for the user"
+  412  git push
+  413  ls
+  414  git add README.md
+  415  git status
+  416  git commit -m "added details to README.fie"
+  417  git push
+  418  git push
+  419  git status
+  420  git add README.md
+  421  git push
+  422  git commit -m "fixing the space"
+  423  git add README.md
+  424  git status
+  425  git commit
+  426  cd onedrive
+  427  cd desktop
+  428  ls
+  429  cd FinTech-Workspace
+  430  cd "Homework 2"
+  431  ls
+  432  cd Challenge-2
+  433  ls
+  434  cd loan_qualifier_app
+  435  git commit 'added line breaks on readme.md"
+  436  git status
+  437  cd ..
+  438  pip install fire
+  439  pip install questionary
+  440  cd onedrive
+  441  cd desktop
+  442  cd FinTech-Workspace
+  443  ls
+  444  cd "Homework 2"
+  445  ls
+  446  cd Challenge-2
+  447  ls
+  448  cd loan_qualifier_app
+  449  ls
+  450  git add
+  451  git status
+  452  git add
+  453  git add pictures
+  454  git add README.md
+  455  git commit -m " added pictures to readme.md"
+  456  git push
+  457  git add README.md
+  458  git commit -m "fixing the image link"
+  459  git push
+  460  git add README.md
+  461  git commit -m "fixing the path to the images"
+  462  git push
+  463  git add README.md
+  464  git commmit -m 'instead of images imma put them in a text box'
+  465  git push
+  466  git status
+  467  git push
+  468  git add README.md
+  469  git add pictures
+  470  git commit -m 'fixing the files text'
+  471  git push
+  472  git add README.md
+  473  git commit -m 'adding the run application guide'
+  474  git push
+  475  git add README.md
+  476  git status
+  477  git add pictures
+  478  git commit -m 'added pictures for the application prompt"
+  479  git status
+  480  git commit -m 'added the pictures of the prompt'
+  481  git push
+  482  git add README.md
+  483  git status
+  484  git commit -m 'added the link from github repo pictures to the run application guide'
+  485  git push
+  486  git add README.md
+  487  git commit -m 'added picture to see in the README.md instead of it being a link'
+  488  git push
+  489  git add README.md
+  490  git commit -m 'getting the image to work so i added [] after the exclamation mark'
+  491  git push
+  492  git add README.md
+  493  git commit -m ' added the final touch in the run application, saying that the csv file will be created'
+  494  git push
+  495  git add README.md
+  496  git commit -m ' added the final touch in the run application, saying that the csv file will be created'
+  497  git push
+  498  git add README.md
+  499  git commit -m ' added the final touch in the run application, saying that the csv file will be created'
+  500  git push
+  501  cd dekstop
+  502  cd onedrive
+  503  cd onedrive
+  504  cd dekstop
+  505  cd desktop
+  506  cd FinTech-Workspace
+  507  ls
+  508  cd 'Homework 2'
+  509  ls
+  510  cd Challenge-2
+  511  ls
+  512  cd loan_qualifier_App
+  513  ls
+  514  history.txt
+  515  history
